@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "400507537",
+    "firebase_url": "https://picnic-f5bbf.firebaseio.com",
+    "project_id": "picnic-f5bbf",
+    "storage_bucket": "picnic-f5bbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400507537:android:fa9e7afb7b5b81e0",
+        "android_client_info": {
+          "package_name": "rarr.picnic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400507537-sr19ttkt3rp4spn5s0613icgoritcd69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rarr.picnic",
+            "certificate_hash": "A33E34D97FAE0F47EB79BA2FD060CFEC599FC893"
+          }
+        },
+        {
+          "client_id": "400507537-sm55c48l8ehm340qv0v1p3b68qivvru1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiD6-WLPwrTb2nAWhr4GMLX_RhplGj--g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400507537-sm55c48l8ehm340qv0v1p3b68qivvru1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
